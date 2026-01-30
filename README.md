@@ -81,12 +81,12 @@ Repository-Factory-Pattern/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/repository-factory-pattern.git
+git clone https://github.com/SKahasun/Repository_Factory_Pattern
 ```
 
 2. Open the solution in Visual Studio:
 ```bash
-cd repository-factory-pattern
+cd Repository_Factory_Pattern
 ```
 
 3. Build the solution:
