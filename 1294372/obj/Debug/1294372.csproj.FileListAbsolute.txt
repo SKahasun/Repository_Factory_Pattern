@@ -1,0 +1,7 @@
+C:\Users\sheikh Ahasunul\OneDrive\Documents\IDB\parctes\Repository Factory Pattern\1294372\obj\Debug\1294372.csproj.AssemblyReference.cache
+C:\Users\sheikh Ahasunul\OneDrive\Documents\IDB\parctes\Repository Factory Pattern\1294372\obj\Debug\1294372.csproj.CoreCompileInputs.cache
+C:\Users\sheikh Ahasunul\OneDrive\Documents\IDB\parctes\Repository Factory Pattern\1294372\bin\Debug\1294372.exe.config
+C:\Users\sheikh Ahasunul\OneDrive\Documents\IDB\parctes\Repository Factory Pattern\1294372\bin\Debug\1294372.exe
+C:\Users\sheikh Ahasunul\OneDrive\Documents\IDB\parctes\Repository Factory Pattern\1294372\bin\Debug\1294372.pdb
+C:\Users\sheikh Ahasunul\OneDrive\Documents\IDB\parctes\Repository Factory Pattern\1294372\obj\Debug\1294372.exe
+C:\Users\sheikh Ahasunul\OneDrive\Documents\IDB\parctes\Repository Factory Pattern\1294372\obj\Debug\1294372.pdb
